@@ -1,6 +1,6 @@
 # HarkerCTF Cryptographic Information
 This repository proves that the HarkerCTF organization owns and controls the key hosted at https://keybase.io/harkerctf. 
-By emailing us with this public key, you can assume that only authorized Board member could read your message.
+By emailing us with this public key, you can assume that only authorized Boards member can read your message.
 
 Our public key:
 ```
